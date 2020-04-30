@@ -1,0 +1,30 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+.title {
+    border-bottom: solid 1px;
+}
+.total {
+    font-weight: bold;
+    font-size: 105%;
+}
+.pad-left-15 {
+    padding-left: 15px;
+}
+.pad-top-20 {
+    padding-top: 20px;
+}
+.remove-padding {
+    padding: 0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
